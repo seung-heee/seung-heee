@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=seung-heee%20render&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=I%am%seung-heee&fontSize=90&animation=fadeIn)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seung-heee&layout=compact)
 
 <!--
